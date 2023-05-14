@@ -1,0 +1,10 @@
+pages\BasePage.class
+Data\LoginData.class
+pages\LoginPage.class
+pages\PasswordRecoveryPage.class
+Data\RegistrationData.class
+pages\RegistrationPage.class
+pages\AccountPage.class
+ToDo\Menu.class
+pages\MainPage.class
+ToDo\Randomize.class
